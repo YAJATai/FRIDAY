@@ -129,8 +129,9 @@ FRIDAY can run fully offline against a local model instead:
 
 ## 🤝 Credits & license
 
-FRIDAY is © 2026 **YAJATai** and released under the **MIT License** — use it,
-modify it, ship it, even commercially. See [`LICENSE`](LICENSE).
+FRIDAY is © 2026 **YAJATai** — **All rights reserved.** Personal use is
+permitted; redistribution or commercial use requires written permission from
+the copyright holder. See [`LICENSE`](LICENSE).
 
 ---
 
