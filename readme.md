@@ -1,7 +1,7 @@
 # 🤖 FRIDAY
 
-**A real-time, voice-controlled AI assistant for your desktop — the hands-free
-rework of CLASSIC MARK 53.**
+**A real-time, voice-controlled AI assistant for your desktop — hands-free,
+end to end.**
 
 FRIDAY talks to you out loud, listens to your voice, sees your screen, and can
 control your computer: opening apps, browsing the web, setting reminders,
@@ -129,17 +129,8 @@ FRIDAY can run fully offline against a local model instead:
 
 ## 🤝 Credits & license
 
-FRIDAY is a real-time-voice rework of **[MARK 53 — JARVIS] by FatihMakes**
-(https://github.com/FatihMakes/Mark-LIII), including the persona, tool actions
-and interface. It is distributed under the same license:
-
-**MARK 53 — JARVIS**  
-Copyright (c) 2026 FatihMakes
-
-Licensed under the **Creative Commons Attribution-NonCommercial 4.0
-International License (CC BY-NC 4.0)**. You are free to share and adapt it for
-**non-commercial** purposes, provided you give appropriate credit. Commercial
-use is not permitted. See [`LICENSE`](LICENSE) for the full text.
+FRIDAY is © 2026 **YAJATai** and released under the **MIT License** — use it,
+modify it, ship it, even commercially. See [`LICENSE`](LICENSE).
 
 ---
 
